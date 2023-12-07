@@ -1,5 +1,5 @@
 [default]
-SQLALCHEMY_DATABASE_URI = 'mysql+pymysql://gustavo:gu30gon35@localhost:3306/HSC'
+SQLALCHEMY_DATABASE_URI = 'mysql+pymysql://gustavo:1234@localhost:3306/HSC'
 SECRET_KEY = "secreto"
 SQLALCHEMY_TRACK_MODIFICATIONS = false
 UPLOAD_EXTENSIONS = ['.jpg','.png','.gif','.jpeg','.pdf']
