@@ -1,5 +1,5 @@
 [default]
-SQLALCHEMY_DATABASE_URI = 'postgres://guwago:5ud2FPpF7mygAmzw9efeWqp1hpXbDyTi@dpg-clp8gi9oh6hc73burcsg-a/db_hsc'
+SQLALCHEMY_DATABASE_URI = 'postgresql://postgres:80gwg3226@localhost:5433/HSC'
 SECRET_KEY = "secreto"
 SQLALCHEMY_TRACK_MODIFICATIONS = false
 UPLOAD_EXTENSIONS = ['.jpg','.png','.gif','.jpeg','.pdf']
